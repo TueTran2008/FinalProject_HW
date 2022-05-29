@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=UT0_TXD Pin=U9-12
+Removed Pin From Net: NetName=UT0_RXD Pin=U9-13
+Removed Pin From Net: NetName=GSM_PWKEY Pin=U9-19
+Removed Pin From Net: NetName=GD32_RI Pin=U9-20
+Removed Pin From Net: NetName=U2_RXD Pin=U9-30
+Removed Pin From Net: NetName=U2_TXD Pin=U9-31
+Removed Pin From Net: NetName=ESP_EN Pin=U9-32
+Removed Pin From Net: NetName=SWDIO Pin=U9-34
+Removed Pin From Net: NetName=NetR49_2 Pin=U9-35
+Removed Pin From Net: NetName=NetR48_2 Pin=U9-36
+Removed Pin From Net: NetName=SWCLK Pin=U9-37
+Removed Pin From Net: NetName=GSM_PWR_EN Pin=U9-39
+Removed Pin From Net: NetName=RST_GSM Pin=U9-40
+Removed Pin From Net: NetName=SWITCH_FM Pin=U9-41
+Removed Pin From Net: NetName=NetR43_1 Pin=U9-44
+Removed Member From Class: ClassName=U_Wifi Member=U9
+Added Component: Designator=U12(LQFP-48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "GigaDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GD32E230C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GD32E230C8T6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=+3V3 Pin=U12-9
+Added Pin To Net: NetName=UT0_TXD Pin=U12-12
+Added Pin To Net: NetName=UT0_RXD Pin=U12-13
+Added Pin To Net: NetName=GSM_PWKEY Pin=U12-19
+Added Pin To Net: NetName=GD32_RI Pin=U12-20
+Added Pin To Net: NetName=GND Pin=U12-23
+Added Pin To Net: NetName=+3V3 Pin=U12-24
+Added Pin To Net: NetName=U2_RXD Pin=U12-30
+Added Pin To Net: NetName=U2_TXD Pin=U12-31
+Added Pin To Net: NetName=ESP_EN Pin=U12-32
+Added Pin To Net: NetName=SWDIO Pin=U12-34
+Added Pin To Net: NetName=NetR49_2 Pin=U12-35
+Added Pin To Net: NetName=NetR48_2 Pin=U12-36
+Added Pin To Net: NetName=SWCLK Pin=U12-37
+Added Pin To Net: NetName=GSM_PWR_EN Pin=U12-39
+Added Pin To Net: NetName=RST_GSM Pin=U12-40
+Added Pin To Net: NetName=SWITCH_FM Pin=U12-41
+Added Pin To Net: NetName=NetR43_1 Pin=U12-44
+Added Pin To Net: NetName=GND Pin=U12-47
+Added Pin To Net: NetName=+3V3 Pin=U12-48
+Added Member To Class: ClassName=U_Wifi Member=Component U12 GD32E230C8T6

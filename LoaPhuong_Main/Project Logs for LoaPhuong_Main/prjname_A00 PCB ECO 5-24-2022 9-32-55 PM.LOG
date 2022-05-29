@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=VIN+ Pin=P3-2
+Removed Member From Class: ClassName=MECHANICAL Member=P3
+Removed Member From Class: ClassName=U_Power Member=P3

@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetC22_1 Pin=C22-1
+Removed Pin From Net: NetName=AU_GND Pin=C22-2
+Removed Pin From Net: NetName=NetC22_1 Pin=C23-1
+Removed Pin From Net: NetName=AU_GND Pin=C23-2
+Removed Pin From Net: NetName=NetC22_1 Pin=C24-1
+Removed Pin From Net: NetName=AU_GND Pin=C24-2
+Change Component Footprint: Designator=C22 Old Footprint=CAP_TANTAL_1210(3528) New Footprint=CAPC-0603 (1608)
+Change Component Footprint: Designator=C23 Old Footprint=CAP_TANTAL_1210(3528) New Footprint=CAPC-0603 (1608)
+Change Component Footprint: Designator=C24 Old Footprint=CAP_TANTAL_1210(3528) New Footprint=CAPC-0603 (1608)
+Change Component Comment : Designator=C22 Old Comment=106/16V New Comment=106/10V
+Change Component Comment : Designator=C23 Old Comment=106/16V New Comment=106/10V
+Change Component Comment : Designator=C24 Old Comment=106/16V New Comment=106/10V
+Change component parameters: Designator = "C22"; Footprint = "CAPC-0603 (1608)"; UniqueID = "\MSDFQPJR\QRFKAUXG\SPERGTKU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-00984"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "CAPC-0603 (1608)"; UniqueID = "\MSDFQPJR\QRFKAUXG\RAYQPZMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-00984"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAPC-0603 (1608)"; UniqueID = "\MSDFQPJR\QRFKAUXG\PUCJQJJJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = "VT-00984"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "106/10V"; VariantName = "[No Variations]"
+Added Component: Designator=C53(CAPC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00982"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AU_GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-2
+Added Pin To Net: NetName=AU_GND Pin=C23-1
+Added Pin To Net: NetName=NetC22_1 Pin=C23-2
+Added Pin To Net: NetName=AU_GND Pin=C24-1
+Added Pin To Net: NetName=NetC22_1 Pin=C24-2
+Added Pin To Net: NetName=AU_GND Pin=C53-1
+Added Pin To Net: NetName=NetC22_1 Pin=C53-2
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetC22_2
+Added Member To Class: ClassName=U_Audio Member=Component C53 104/50V

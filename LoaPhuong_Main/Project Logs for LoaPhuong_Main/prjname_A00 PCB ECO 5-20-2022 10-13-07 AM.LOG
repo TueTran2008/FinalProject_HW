@@ -1,0 +1,84 @@
+Added Component: Designator=D7(LED3301-15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "SunLED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "XLMDKCBD34M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://item.taobao.com/item.htm?spm=a230r.1.14.6.66213402V6WLYs&id=605186082192&ns=1&abbucket=1#detail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B/R LED"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED3301-15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "SunLED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "XLMDKCBD34M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://item.taobao.com/item.htm?spm=a230r.1.14.6.66213402V6WLYs&id=605186082192&ns=1&abbucket=1#detail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B/R LED"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=D7-2
+Added Pin To Net: NetName=+3V3 Pin=D8-2
+Added Pin To Net: NetName=LED1_B Pin=R51-1
+Added Net: Name=LED1_B
+Added Pin To Net: NetName=LED1_R Pin=R52-1
+Added Net: Name=LED1_R
+Added Pin To Net: NetName=LED2_B Pin=R53-1
+Added Net: Name=LED2_B
+Added Pin To Net: NetName=LED2_R Pin=R54-1
+Added Net: Name=LED2_R
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R51-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=NetD7_3 Pin=R52-2
+Added Net: Name=NetD7_3
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R53-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=NetD8_3 Pin=R54-2
+Added Net: Name=NetD8_3
+Added Member To Class: ClassName=U_Wifi Member=Component D7 G/R
+Added Member To Class: ClassName=U_Wifi Member=Component D8 G/R
+Added Member To Class: ClassName=U_Wifi Member=Component R51 1K
+Added Member To Class: ClassName=U_Wifi Member=Component R52 1K
+Added Member To Class: ClassName=U_Wifi Member=Component R53 1K
+Added Member To Class: ClassName=U_Wifi Member=Component R54 1K

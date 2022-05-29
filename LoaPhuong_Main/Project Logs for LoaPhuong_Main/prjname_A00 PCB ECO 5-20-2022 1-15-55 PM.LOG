@@ -1,0 +1,84 @@
+Added Component: Designator=C54(CAPC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00982"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "C0603C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104/50V"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = "MECHANICAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=TP18(Test Point 1.5 MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT23-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Categories"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "STWD100YNYWY3F"; VariantName = "[No Variations]"
+Added Component: Designator=U12(LQFP-48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "GigaDevice"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GD32E230C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GD32E230C8T6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=+3V3 Pin=C54-2
+Added Pin To Net: NetName=+3V3 Pin=P7-2
+Added Pin To Net: NetName=GND Pin=R55-2
+Added Pin To Net: NetName=ESP_EN Pin=U9-32
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=+3V3 Pin=U11-5
+Added Pin To Net: NetName=+3V3 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=+3V3 Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-23
+Added Pin To Net: NetName=+3V3 Pin=U12-24
+Added Pin To Net: NetName=GND Pin=U12-47
+Added Pin To Net: NetName=+3V3 Pin=U12-48
+Added Pin To Net: NetName=MSP_RST Pin=U11-1
+Added Net: Name=MSP_RST
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=R55-1
+Added Pin To Net: NetName=NetP7_1 Pin=TP18-0
+Added Pin To Net: NetName=NetP7_1 Pin=U11-3
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=WDI Pin=U11-4
+Added Net: Name=WDI
+Added Member To Class: ClassName=U_Wifi Member=Component C54 104/50V
+Added Member To Class: ClassName=MECHANICAL Member=Component P7 Header 2x1
+Added Member To Class: ClassName=U_Wifi Member=Component P7 Header 2x1
+Added Member To Class: ClassName=U_Wifi Member=Component R55 10K
+Added Member To Class: ClassName=U_Wifi Member=Component TP18 
+Added Member To Class: ClassName=U_Wifi Member=Component U11 STWD100Y
+Added Member To Class: ClassName=U_Wifi Member=Component U12 GD32E230C8T6

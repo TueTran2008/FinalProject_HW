@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AU_3V3 Pin=C13-2
+Removed Pin From Net: NetName=AU_3V3 Pin=C15-2
+Removed Pin From Net: NetName=AU_3V3 Pin=R14-1
+Removed Pin From Net: NetName=AU_3V3 Pin=U2-16
+Removed Pin From Net: NetName=AU_3V3 Pin=U2-17
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=C15-2
+Added Pin To Net: NetName=NetC13_2 Pin=R14-1
+Added Pin To Net: NetName=NetC13_2 Pin=U2-16
+Added Pin To Net: NetName=NetC13_2 Pin=U2-17
+Added Net: Name=NetC13_2

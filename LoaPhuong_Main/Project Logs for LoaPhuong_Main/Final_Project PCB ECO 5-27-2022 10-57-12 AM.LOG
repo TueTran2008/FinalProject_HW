@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3V3 Pin=P6-1
+Removed Pin From Net: NetName=SWCLK Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=SWDIO Pin=P6-5
+Removed Pin From Net: NetName=GND Pin=P6-8
+Removed Member From Class: ClassName=U_Wifi Member=P6
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CMT"; Value = "Header 4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S1012EC-40-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDIO Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=SWCLK Pin=P?-3
+Added Pin To Net: NetName=+3V3 Pin=P?-4
+Added Member To Class: ClassName=U_Wifi Member=Component P? Header 4P

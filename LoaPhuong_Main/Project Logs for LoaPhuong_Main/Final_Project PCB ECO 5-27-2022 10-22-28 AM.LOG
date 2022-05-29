@@ -1,0 +1,22 @@
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = "MECHANICAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S1012EC-40-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header 4P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=EC_DM Pin=M1-70
+Added Pin To Net: NetName=EC_DM Pin=P?-3
+Added Net: Name=EC_DM
+Added Pin To Net: NetName=EC_DP Pin=P?-2
+Added Net: Name=EC_DP
+Added Pin To Net: NetName=EC_VBUS Pin=M1-71
+Added Pin To Net: NetName=EC_VBUS Pin=P?-4
+Added Net: Name=EC_VBUS
+Added Pin To Net: NetName=EM_DP Pin=M1-69
+Added Net: Name=EM_DP
+Added Member To Class: ClassName=MECHANICAL Member=Component P? Header 4x1
+Added Member To Class: ClassName=U_4G Member=Component P? Header 4x1

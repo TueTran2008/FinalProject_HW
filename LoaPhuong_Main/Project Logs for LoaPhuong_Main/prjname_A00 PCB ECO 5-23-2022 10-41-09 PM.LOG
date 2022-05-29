@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=+3V3 Pin=C11-1
+Removed Pin From Net: NetName=+3V3 Pin=C12-2
+Removed Pin From Net: NetName=+3V3 Pin=C14-2
+Removed Pin From Net: NetName=+3V3 Pin=C16-2
+Removed Pin From Net: NetName=+3V3 Pin=C17-2
+Removed Pin From Net: NetName=+3V3 Pin=C40-1
+Removed Pin From Net: NetName=+3V3 Pin=L3-1
+Removed Pin From Net: NetName=+3V3 Pin=R14-2
+Removed Pin From Net: NetName=+3V3 Pin=R16-2
+Removed Pin From Net: NetName=+3V3 Pin=R17-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-3
+Removed Pin From Net: NetName=+3V3 Pin=U3-8
+Removed Pin From Net: NetName=+3V3 Pin=U6-2
+Removed Pin From Net: NetName=+3V3 Pin=U6-2
+Added Component: Designator=C4(CAP_TANTAL_1210(3528))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "T520B227M006ATE035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "227/6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT_BB Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Codec_3V3 Pin=C40-1
+Added Pin To Net: NetName=Codec_3V3 Pin=U6-2
+Added Pin To Net: NetName=Codec_3V3 Pin=U6-2
+Added Pin To Net: NetName=AU_3V3 Pin=C11-1
+Added Pin To Net: NetName=AU_3V3 Pin=C12-2
+Added Pin To Net: NetName=AU_3V3 Pin=C14-2
+Added Pin To Net: NetName=AU_3V3 Pin=C16-2
+Added Pin To Net: NetName=AU_3V3 Pin=C17-2
+Added Pin To Net: NetName=AU_3V3 Pin=L3-1
+Added Pin To Net: NetName=AU_3V3 Pin=R14-2
+Added Pin To Net: NetName=AU_3V3 Pin=R16-2
+Added Pin To Net: NetName=AU_3V3 Pin=R17-2
+Added Pin To Net: NetName=AU_3V3 Pin=U2-2
+Added Pin To Net: NetName=AU_3V3 Pin=U2-3
+Added Pin To Net: NetName=AU_3V3 Pin=U3-8
+Added Net: Name=AU_3V3
+Added Member To Class: ClassName=U_4G Member=Component C4 227/6.3V
+Added Member To Class: ClassName=PowerNet Member=Wire AU_3V3

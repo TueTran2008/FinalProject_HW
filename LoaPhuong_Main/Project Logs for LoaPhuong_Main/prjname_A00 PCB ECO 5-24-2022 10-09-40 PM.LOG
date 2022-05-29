@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=50M_CLKI Pin=R22-1
+Added Pin To Net: NetName=ESP_RX Pin=R22-1

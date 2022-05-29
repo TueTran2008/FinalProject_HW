@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=U2-16
+Added Pin To Net: NetName=AU_3V3 Pin=U2-16

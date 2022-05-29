@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=VIN Pin=U9-4
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=VIN Pin=U13-4
+Removed Member From Class: ClassName=U_Wifi Member=R60
+Removed Member From Class: ClassName=U_Wifi Member=R61
+Removed Member From Class: ClassName=U_Wifi Member=U9
+Removed Member From Class: ClassName=U_Wifi Member=U13
