@@ -1,0 +1,12 @@
+﻿*.Zip
+FM/PCB_Project/__Previews
+FM/PCB_Project/Project Logs for PCB_Project
+*.o
+*.d
+LoaPhuong_Main/FM/PCB_Project
+*.bin
+*.elf
+LoaPhuong_Main/Code/slave/build/4GRadio_slave_no_secure.map
+LoaPhuong_Main/Code/slave/build/4GRadio_slave.map
+FM/PCB_Project
+FM/PCB_Project

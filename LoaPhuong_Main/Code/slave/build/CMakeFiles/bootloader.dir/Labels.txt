@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/CMakeFiles/bootloader
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/CMakeFiles/bootloader.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/CMakeFiles/bootloader-complete.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader/subproject",
+    "build_dir":          "/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/build/bootloader",
+    "config_file":        "/mnt/e/Bytech_Project/Loa_Phuong/radio_net/slave/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3.2-6-gb5cd614b6c-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/efuse/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp32/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_common/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_system/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/log/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/newlib/Kconfig;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader/Kconfig.projbuild;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esptool_py/Kconfig.projbuild;/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader_support", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/efuse", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp32", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_common", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_hw_support", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_rom", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_system", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esptool_py", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/hal", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/log", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader/subproject/main", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader/subproject/components/micro-ecc", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/newlib", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/partition_table", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/soc", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/spi_flash", "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/xtensa", "" ]
+}

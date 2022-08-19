@@ -1,0 +1,10 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/e/Bytech_Project/Loa_Phuong/radio_net/slave'
+ 
+Makefile:2: /project.mk: No such file or directory
+make: *** No rule to make target '/project.mk'.
+make: Failed to remake makefile '/project.mk'.
+make: *** No targets specified and no makefile found.  Stop.
+
+make: Leaving directory '/cygdrive/e/Bytech_Project/Loa_Phuong/radio_net/slave'
+ 

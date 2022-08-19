@@ -1,0 +1,3 @@
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/bootloader/Kconfig.projbuild"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esptool_py/Kconfig.projbuild"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/partition_table/Kconfig.projbuild"

@@ -1,0 +1,7 @@
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/efuse/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp32/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_common/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/esp_system/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/log/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/newlib/Kconfig"
+source "/mnt/e/esp/audio_ip_adf/fire_safe_esp32_sdk/components/spi_flash/Kconfig"
